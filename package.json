@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.0.2"
+  },
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "nodemon app.js"
+  },
+  "author": "Jayant Thakur",
+  "license": "ISC",
+  "description": ""
+}
